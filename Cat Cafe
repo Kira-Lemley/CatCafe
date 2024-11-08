@@ -1,0 +1,38 @@
+#The Player
+class pet:
+    petType = ""
+    petName = ""
+    size = 0
+    energy = 0
+    rarity = 0
+    
+    def__init__(self, petType, petName, size, energy, rarity):
+        self.petType = petType
+        self.petName = petName
+        self.size = size
+        self.energy = energy
+        self.rarity = rarity
+        
+    def eat(size):
+        return - size
+    def get_rarity():
+        return rarity
+
+class cafe:
+    pets = 0
+    people = 0
+    income = 0
+    expenses = 0
+    money = 0
+    
+    def__init__(self, pets, people, income, expenses, money):
+        self.pets = pets
+        self.people = people
+        self.income = income
+        self.expenses = expenses
+        self.money = money
+    
+cafe = cafe(0, 0, 0, 0, 1000)
+def maingameplayloop(cafe):
+    #like put in options for expneses like dialoge tree stuff
+    
