@@ -34,5 +34,5 @@ class cafe:
     
 cafe = cafe(0, 0, 0, 0, 1000)
 def maingameplayloop(cafe):
-    #like put in options for expneses like dialoge tree stuff
+    #like put in options for expneses like dialoge tree stuffff
     
